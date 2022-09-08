@@ -22,6 +22,8 @@ This application uses the inqiurer to takeon user input and the jest package to 
 ## Usage
 The application will prompt the user to create his or her team based on three roles. The application will always prompt the user to enter the manager's role first. Once completed the user will be prompt to select whether to add addtional engineer or intern to the team. If no additional memeber is needed the user can then select finsih building the team to end the prompt and to genereate the HTML output.
 
+<img src="./assets/demo-pic.png" width ="300">
+
 Follow the video below for detailed usage guide: <br>
 [Demo Video](https://drive.google.com/file/d/1tyl9vWjZaQbh2RE_9qj4VEdKsIw0op-T/view)
         
